@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.keras
+*.keras.json
+artifacts/
+data/
+.venv/
+venv/
+*.egg-info/
